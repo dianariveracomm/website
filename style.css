@@ -1,0 +1,89 @@
+ul li {
+  display: inline-block;
+  background-color: none;
+  vertical-align: text-top;
+  font-family: Helvetica, sans-serif;
+}
+
+.logo {
+  width: 68%;
+  /background-color:green;
+}
+
+ul {
+  background-color: none;
+}
+
+body {
+  background-image: url(https://res.cloudinary.com/dxztz8wtn/image/upload/v1642958022/Flying-Lotus_jmgzzk.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+img {
+  width: 300px;
+}
+
+.button1 {
+  padding: 14px 27px;
+
+  background: #090810;
+  box-shadow: 0px 4px 4px #db0d1d;
+  border-radius: 8px;
+
+  color: #c6382c;
+  margin-right: 20px;
+  font-family: 'Sarabun', sans-serif;
+}
+
+.button2 {
+  padding: 14px 27px;
+
+  background: #090810;
+  box-shadow: 0px 4px 4px #db0d1d;
+  border-radius: 8px;
+
+  color: #c6382c;
+  margin-right: 20px;
+  font-family: 'Sarabun', sans-serif;
+}
+
+.button3 {
+  padding: 14px 27px;
+
+  background: #090810;
+  box-shadow: 0px 4px 4px #db0d1d;
+  border-radius: 8px;
+
+  color: #c6382c;
+  font-family: 'Sarabun', sans-serif;
+}
+
+h1 {
+  font-family: helvetica, sans-serif;
+  align: center;
+}
+
+.button4 {
+  padding: 14px 27px;
+
+  background: #0F0D11;
+  box-shadow: 0px 4px 4px #db0d1d;
+  border-radius: 8px;
+
+  font-family: 'Sarabun', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  color: #c6382c;
+  width: 20%;
+  margin: 36px;
+  position: relative;
+  top: 282px;
+}
+
+.cd {
+  position: relative;
+  left: 40px;
+  bottom:110px;
+  /background-color:green;  
+}
